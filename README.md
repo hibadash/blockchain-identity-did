@@ -1,4 +1,4 @@
-# Time-Locked Wallet (Solidity)
+# Time-Locked Wallet (Using Solidity)
 
 A simple Ethereum smart contract that locks Ether until a specified unlock time. Only the owner can withdraw the funds once the unlock time is reached.
 
